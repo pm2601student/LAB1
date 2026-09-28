@@ -1,2 +1,2 @@
-# LABA1
+# Отчет по лабораторной работе N1
 #ghGhZIRghzZUghizDUzzghidzghiURDg

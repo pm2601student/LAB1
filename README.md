@@ -40,6 +40,7 @@ public class guide {
 }
 //break
 ```
+```mermaid
 graph TD
     A([Начало]) --> B[/Ввести: X, A, B, C/]
     B --> C{X >= A + B + C}
@@ -53,3 +54,4 @@ graph TD
     F --> Z
     H --> Z
     I --> Z
+```

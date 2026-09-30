@@ -131,7 +131,6 @@ public class guide {
             out.print(0);
     }
 }
-//break
 ```
 
 ### 6. Анализ правильности решения
